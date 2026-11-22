@@ -37,3 +37,9 @@ Depois, acesse o endereço local informado pelo Streamlit no terminal.
 ## Conjunto de dados
 
 O projeto utiliza o arquivo `vehicles_us.csv`, disponibilizado pela TripleTen, que contém informações sobre anúncios de venda de veículos.
+
+## Aplicativo online
+
+O aplicativo está disponível no Render:
+
+[ Acessar aplicativo ](https://SEU-APP.onrender.com/)
