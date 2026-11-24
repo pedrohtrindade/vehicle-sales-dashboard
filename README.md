@@ -42,4 +42,4 @@ O projeto utiliza o arquivo `vehicles_us.csv`, disponibilizado pela TripleTen, q
 
 O aplicativo está disponível no Render:
 
-[ Acessar aplicativo ](https://vehicle-sales-dashboard.onrender.com/)
+[ Acessar aplicativo ](https://vehicle-sales-dashboard-aois.onrender.com)
